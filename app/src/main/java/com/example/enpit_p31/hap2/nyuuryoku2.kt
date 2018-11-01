@@ -21,4 +21,6 @@ class nyuuryoku2 : AppCompatActivity() {
         val intent = Intent(this, gohan::class.java)
         startActivity(intent)
     }
+
+
 }
